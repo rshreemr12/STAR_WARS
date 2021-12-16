@@ -1,2 +1,8 @@
 # STAR_WARS
-analyzing Star wars charachters using visualizing
+Analyzing Star wars charachters using python visualizing
+
+# Data Source
+developed using data from public API 
+https://swapi.dev/
+
+
